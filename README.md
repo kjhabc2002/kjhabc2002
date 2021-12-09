@@ -22,7 +22,7 @@ If you want to contact me, please leave me a message!
 <a href="https://www.python.org/"><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&amp;logo=Python&amp;logoColor=white"></a>
 <a href="https://www.mysql.com/"><img src="https://img.shields.io/badge/Mysql-4479A1?style=for-the-badge&amp;logo=Mysql&amp;logoColor=white"></a>
 <a href="https://https://www.djangoproject.com/"><img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&amp;logo=Django&amp;logoColor=white"></a>
-<a href="https://github.com/juhyun"><img src="https://img.shields.io/badge/github-%2324292e.svg?style=for-the-badge&amp;logo=Github&amp;logoColor=white"></a>
+<a href="https://github.com/"><img src="https://img.shields.io/badge/github-%2324292e.svg?style=for-the-badge&amp;logo=Github&amp;logoColor=white"></a>
 
 ## Top Repositories
 
